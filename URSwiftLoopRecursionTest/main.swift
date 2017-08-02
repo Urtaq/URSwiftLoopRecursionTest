@@ -123,7 +123,7 @@ func recSum(x: Int) -> Int {
 print("", pow(2, 16))
 print(Double(Int64(NSEC_PER_SEC)) / Double(NSEC_PER_SEC))
 
-var list: [Int] = Array<Int>(repeating: 5, count: 40000)
+var list: [Int] = Array<Int>(repeating: 5, count: 10000)
 
 var bef = Date().timeIntervalSince1970
 var r = 0
