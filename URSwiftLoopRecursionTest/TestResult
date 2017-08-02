@@ -1,0 +1,134 @@
+65536
+1.0
+start is  0 by tailSum
+end is  3813046128 ,  6.94894790649414
+
+start is  0 by recSum
+end is  5490838821 ,  2.71081924438477
+
+start is  0 by tailfactorial
+end is  3628800 ,  0.0429153442382812
+
+start is  0 by recfactorial
+end is  3628800 ,  0.0629425048828125
+
+start is  0 by recurse2
+end is  0.305136919021606
+
+start is  0 by tailRecurse
+end is  0.300699949264526
+
+start is  0 by tailRecurse2
+end is  0.277385950088501
+
+start is  0 by while
+end is  0.0114011764526367
+
+start is  0 by for-in
+end is  0.0100610256195068
+
+start is  0 by stride
+end is  0.00928688049316406
+
+start is  0 by subscript
+end is  0.010955810546875
+
+start is  0 by for enumerated
+end is  0.0135600566864014
+
+start is  0 by recurse
+end is  0.305881023406982
+
+Program ended with exit code: 0
+
+##################################################################
+
+65536
+1.0
+start is  0 by tailSum
+end is  3813046128 ,  5.45406341552734
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by recSum
+end is  5490838821 ,  4.4100284576416
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by tailfactorial
+end is  3628800 ,  0.245094299316406
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by recfactorial
+end is  3628800 ,  0.129938125610352
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by recurse
+end is  0.322849035263062
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by recurse2
+end is  0.301399946212769
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by tailRecurse
+end is  0.317845106124878
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by tailRecurse2
+end is  0.337931871414185
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by while
+end is  0.0101380348205566
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by for-in
+end is  0.00944781303405762
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by stride
+end is  0.0147011280059814
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by subscript
+end is  0.010983943939209
+
+Program ended with exit code: 0
+
+65536
+1.0
+start is  0 by for enumerated
+end is  0.0123119354248047
+
+Program ended with exit code: 0
